@@ -232,4 +232,4 @@ Arduino IDE is the complete free version with all features and updates included.
 Unlock your potential and start building amazing projects with Arduino IDE today! Download your free copy now!
 
 ---
-**Last updated:** 2026-10-03 21:52:50 UTC
+**Last updated:** 2026-10-04 00:11:33 UTC
